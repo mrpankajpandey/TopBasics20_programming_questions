@@ -1,4 +1,4 @@
-# TopBasics20_programming_questions
+## TopBasics20_programming_questions
 
 ## 1. Write a function that checks if a given number is a multiple of both 3 and 5.
 
